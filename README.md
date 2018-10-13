@@ -1,6 +1,6 @@
 # Mindy
 
-An attempt to make a Mindustry 3.5 style tower defense game. 
+An attempt to make a Mindustry 4.0 style RTS game. 
 
   additional goals are
   
@@ -8,8 +8,8 @@ An attempt to make a Mindustry 3.5 style tower defense game.
     
     implement shaders for parallel tasks wherever it makes sense
     
-    mix in some content from mindustry 4.0 such as nicer conveyors and pipes
-    
-    build on the original gamemode of towers vs endless waves of increasingly difficult enemies
+    make a 3D engine to play on
+
+    being a meme
     
     networking with no desyncs
